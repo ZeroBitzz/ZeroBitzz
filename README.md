@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeroBitzz
 - 👀 I’m interested in engineering
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently mastering javascript and redux
 - 💞️ I’m looking to collaborate on most anything
 - 📫 How to reach me zerothesu@gmail.com
 
