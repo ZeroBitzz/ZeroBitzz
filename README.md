@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ZeroBitzz
-- 👀 I’m interested in engineering
-- 🌱 I’m currently mastering javascript and redux
-- 💞️ I’m looking to collaborate on most anything
-- 📫 How to reach me zerothesu@gmail.com
+- 👋 Hello there, I’m @ZeroBitzz
+- 👽 I programm stuff sometimes
+- 📫 contact me at zerothesu@gmail.com
 
 <!---
 ZeroBitzz/ZeroBitzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
