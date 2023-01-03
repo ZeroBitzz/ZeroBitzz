@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m @ZeroBitzz
 - 👽 I programm stuff sometimes
-- 📫 contact me at zerothesu@gmail.com
+- 📫 contact me at zerothesu@gmail.com or my linkedin https://www.linkedin.com/in/broderick-howell-43b0161a4/
 - 🛸 Check out my website, its cool https://brodihowell.dev/
 
 <!---
