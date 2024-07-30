@@ -12,8 +12,6 @@
  
  🔭 I’m currently working on **math-mania**
 
- 🤓 I speak English. I can have basic conversation speaking Russian and would love more people to talk to, and just picked up Danish as well, lets chat!
-
 💬 Ask me about **Node.js, React, Javascript... or anything [here](https://github.com/ZeroBitzz/ZeroBitzz/issues)**
 
  </div>
