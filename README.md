@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Broderick+Howell!;+привет!;+я+Бродэрикk+Хауэлл!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=white?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Broderick+Howell!;" />
 </h1>
 
 <h3 align="center">I'm an adaptive, enthusiastic, and coffee addicted software engineer</h3>
@@ -11,14 +11,10 @@
 <div align="center">
  
  🔭 I’m currently working on **math-mania**
- 
- 🌱 I’m currently learning **python, php, mern**
 
- 🤓 I speak russian, english, and am currently learning danish
+ 🤓 I speak English. I can have basic conversation speaking Russian and would love more people to talk to, and just picked up Danish as well, lets chat!
 
 💬 Ask me about **Node.js, React, Javascript... or anything [here](https://github.com/ZeroBitzz/ZeroBitzz/issues)**
-
-⚡ Fun fact About Me **I created my own method for solving a rubiks cube**
 
  </div>
  
